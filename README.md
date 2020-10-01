@@ -1,5 +1,10 @@
 # Hi I'm Ian 👋
 
+<img src="https://oraclefrontovikcom.files.wordpress.com/2018/06/cropped-img_0310-1.jpg" alt="banner that shows some of my favourite programming books such as code complete, debugging and others usually found in the top ten programming books you must read">
+
+
+
+
 <!--
 **iancarpenter/iancarpenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
