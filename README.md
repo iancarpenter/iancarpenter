@@ -11,3 +11,4 @@ In my spare time I help run a local Code Club which introduces primary school ag
 ## Find me around the web 🌎: 
 - Sharing what I learn on <a href="https://oraclefrontovik.com/">my blog</a>
 - Read <a href="https://twitter.com/IanHCarpenter">tweets</a> that thank people who have helped me or whose work I have enjoyed.
+- Connect with me on <a href="https://www.linkedin.com/in/ianhcarpenter/">LinkedIn</a>
