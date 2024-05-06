@@ -4,7 +4,7 @@
 
 I'm a self-taught Developer with interests in server-side development, databases, refactoring legacy code, instrumentation, debugging, and security.
 
-In the past I have run Code Clubs which introduces primary school age children to programming. When off line I can found exploring and photographing battlefields of the Second World War.
+In the past I have run Code Clubs which introduces Primary school age children to programming. When off line I can found exploring and photographing battlefields of the Second World War.
 
 ## Find me around the web 🌎: 
 - Sharing what I learn on <a href="https://iancarpenter.dev/">my blog</a>
