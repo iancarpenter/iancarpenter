@@ -4,7 +4,7 @@
 
 I’m a self taught Freelance Developer. My interests span the entire spectrum of software development including server side development, databases, legacy code, instrumentation, debugging and security. 
 
-A the moment I am teaching myself C#, PostgreSQL and Go. I enjoy attending conferences, listening to Podcasts and reading good technology books. 
+I am teaching myself C#, PostgreSQL and Go. I enjoy attending conferences, listening to Podcasts and reading good technology books. 
 
 In the past I have run Code Clubs which introduces primary school age children to programming. When off line I can found exploring and photographing battlefields of the Second World War.
 
