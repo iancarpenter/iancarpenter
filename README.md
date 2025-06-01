@@ -4,7 +4,7 @@
 
 I'm a self-taught Developer interested in server-side development, databases and security.
 
-When off line I can found exploring and photographing battlefields of the Second World War.
+When off line I can found exploring Second World War battlefields 
 
 ## Find me around the web 🌎: 
 - Sharing what I learn on <a href="https://iancarpenter.dev/">my blog</a>
